@@ -1,0 +1,7 @@
+@media screen and (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi),only screen and (min-device-pixel-ratio:2){
+    .footer-container .footer .contact-menu .store-logos .store-logo{
+        background:url('/assets/images/store-logos@2x:c2d73d55fa1fdb1bc32ecef7a08a5c2d.png') top left no-repeat;
+        -webkit-background-size:192px 30px;
+        -moz-background-size:192px 30px;
+        background-size:192px 30px
+    }
