@@ -1,0 +1,371 @@
+/*! CSS Used from: Embedded ; media=screen */
+@media screen{
+input{background-color:#28292a;}
+input{border-color:#5d5d5d;color:#d8d7d4;}
+a{color:#3e8eec;}
+::placeholder{color:#b1ada4;}
+::selection{background-color:#1361c1;color:#ececec;}
+::-moz-selection{background-color:#1361c1;color:#ececec;}
+::-webkit-scrollbar{background-color:#2b2d2d;color:#bbb7b0;}
+::-webkit-scrollbar-thumb{background-color:#37393a;}
+::-webkit-scrollbar-thumb:hover{background-color:#3e4042;}
+::-webkit-scrollbar-thumb:active{background-color:#474a4c;}
+::-webkit-scrollbar-corner{background-color:#28292a;}
+*{scrollbar-color:#37393a #2b2d2d;}
+}
+/*! CSS Used from: https://s0.shbdn.com/assets/common:7c5589959e330525570183497675fd3a.css ; media=screen, print */
+@media screen, print{
+ul,li,a{margin:0;padding:0;background:no-repeat 0 0;}
+ul{list-style:none;}
+a{color:#039;text-decoration:none;outline:0;}
+a:focus{outline:0;}
+a:hover{text-decoration:underline;}
+input{font:12px "Lucida Grande","LucidaGrande",Arial,sans-serif;}
+input[type=checkbox]{cursor:pointer;}
+}
+/*! CSS Used from: Embedded ; media=screen */
+@media screen{
+ul,li,a{margin:0;padding:0;background:no-repeat 0 0;}
+ul{list-style:none;}
+a{color:#039;text-decoration:none;outline:0;}
+a:focus{outline:0;}
+a:hover{text-decoration:underline;}
+input{font:12px "Lucida Grande","LucidaGrande",Arial,sans-serif;}
+input[type=checkbox]{cursor:pointer;}
+}
+/*! CSS Used from: Embedded ; media=screen */
+@media screen{
+ul,li,a{background-image:initial;background-color:initial;}
+a{color:rgb(114, 174, 236);text-decoration-color:initial;outline-color:initial;}
+a:focus{outline-color:initial;}
+a:hover{text-decoration-color:initial;}
+}
+/*! CSS Used from: https://s0.shbdn.com/assets/homepage:2370405b4baba8ca4454809fffcf0cb8.css ; media=screen, print */
+@media screen, print{
+.homepage aside .uiBox span.new-category{position:relative;display:inline-block;margin-left:15px;font-size:10px;color:#fff;bottom:1px;line-height:26px;}
+.homepage aside .uiBox span.new-category:before{background-image:url('https://s0.shbdn.com/assets/images/homepage:beb2becad39a447f4fe46dbeeb34876a.png');background-position:-77px -37px;width:38px;height:14px;content:'';display:inline-block;vertical-align:middle;position:absolute;z-index:-1;top:7px;left:-10px;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage aside .uiBox span.new-category:before{background-image:url('https://s0.shbdn.com/assets/images/homepage_2x:d0569f45f32a774eacc720be5d60d95a.png');background-position:-30px -106px;-webkit-background-size:165.5px 171px;-moz-background-size:165.5px 171px;background-size:165.5px 171px;}
+}
+.homepage .uiBox nav>ul>li>a{line-height:28px;}
+.homepage .uiBox nav>ul>li:before{position:absolute;left:0;margin-top:3px;}
+.homepage .uiBox nav .services-categories{padding-top:9px;}
+.homepage .uiBox nav .special-categories,.homepage .uiBox nav .services-categories{border-bottom:1px solid #e6e6e6;padding-bottom:8px;padding-left:35px;}
+.homepage .uiBox nav .special-categories li.category-48:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-168px -552px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .special-categories li.category-48:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-168px -552px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .special-categories li.category-acil-acil:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-696px -24px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .special-categories li.category-acil-acil:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-696px -24px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .special-categories li.category-fiyati-dusen:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-552px -168px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .special-categories li.category-fiyati-dusen:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-552px -168px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .services-categories li.category-realestate-index:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-624px -96px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .services-categories li.category-realestate-index:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-624px -96px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .services-categories li.category-damage-inquiry:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-504px -216px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .services-categories li.category-damage-inquiry:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-504px -216px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .services-categories li.category-vehicle-insurance:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-360px -360px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .services-categories li.category-vehicle-insurance:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-360px -360px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .services-categories li.category-home-insurance:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-288px -432px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .services-categories li.category-home-insurance:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-288px -432px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .services-categories li.category-expertise:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-408px -312px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .services-categories li.category-expertise:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-408px -312px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .services-categories li.category-vehicle-price-evaluation:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-48px -672px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .services-categories li.category-vehicle-price-evaluation:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-48px -672px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu{margin:0;}
+.homepage .uiBox nav .categories-left-menu>li{padding:6px 0 0 35px;margin-top:7px;border-bottom:1px solid #e6e6e6;position:relative;}
+.homepage .uiBox nav .categories-left-menu>li:before{top:2px;}
+.homepage .uiBox nav .categories-left-menu>li span{color:#a1a1a1;font-size:10px;}
+.homepage .uiBox nav .categories-left-menu>li>a{font-weight:bold;line-height:20px;}
+.homepage .uiBox nav .categories-left-menu>li>a:before{top:-4px;}
+.homepage .uiBox nav .categories-left-menu>li>a+span{font-weight:bold;}
+.homepage .uiBox nav .categories-left-menu>li input[type="checkbox"]{display:none;}
+.homepage .uiBox nav .categories-left-menu>li ul{margin:8px 2px 13px 0;}
+.homepage .uiBox nav .categories-left-menu>li ul li{margin-bottom:5px;line-height:17px;}
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat{margin-bottom:14px;}
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat label{cursor:pointer;color:#039;padding-right:16px;line-height:15px;}
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat label:after{background-image:url('https://s0.shbdn.com/assets/images/homepage:beb2becad39a447f4fe46dbeeb34876a.png');background-position:-159px 0;width:12px;height:6px;content:'';display:inline-block;vertical-align:middle;-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-o-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg);position:relative;left:8px;bottom:1px;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat label:after{background-image:url('https://s0.shbdn.com/assets/images/homepage_2x:d0569f45f32a774eacc720be5d60d95a.png');background-position:-154px 0;-webkit-background-size:165.5px 171px;-moz-background-size:165.5px 171px;background-size:165.5px 171px;}
+}
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat label.close-categories:after{-webkit-transform:rotate(0deg);-moz-transform:rotate(0deg);-o-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg);}
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat label:hover{text-decoration:underline;}
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat label:hover:after{opacity:1;-ms-filter:none;filter:none;}
+.homepage .uiBox nav .categories-left-menu>li.category-3518:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-600px -120px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-3518:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-600px -120px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-3517:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-96px -624px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-3517:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-96px -624px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-39:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:0 -720px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-39:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:0 -720px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-39>a{max-width:160px;display:inline-block;}
+.homepage .uiBox nav .categories-left-menu>li.category-39>a+span{display:block;margin-top:-15px;margin-left:130px;}
+.homepage .uiBox nav .categories-left-menu>li.category-7:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-720px 0;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-7:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-720px 0;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-7>a{max-width:95px;display:inline-block;}
+.homepage .uiBox nav .categories-left-menu>li.category-7>a+span{margin-left:-5px;}
+.homepage .uiBox nav .categories-left-menu>li.category-3520{border-bottom:0;}
+.homepage .uiBox nav .categories-left-menu>li.category-3520:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-480px -240px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-3520:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-480px -240px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-4595:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-264px -456px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-4595:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-264px -456px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-9:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-336px -384px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-9:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-336px -384px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-88854:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-120px -600px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-88854:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-120px -600px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-218822:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-240px -480px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-218822:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-240px -480px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-218835:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png');background-position:-24px -696px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-218835:before{background-image:url('https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png');background-position:-24px -696px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li .show-hide-input ~ ul .hide-category,.homepage .uiBox nav .categories-left-menu>li .show-hide-input ~ ul .hide-show-cat .close-categories{display:none;}
+.homepage .uiBox nav .categories-left-menu>li .show-hide-input:checked ~ ul .hide-category{display:block;}
+.homepage .uiBox nav .categories-left-menu>li .show-hide-input:checked ~ ul .hide-show-cat .close-categories{display:inline-block;}
+.homepage .uiBox nav .categories-left-menu>li .show-hide-input:checked ~ ul .hide-show-cat .open-categories{display:none;}
+}
+/*! CSS Used from: Embedded ; media=screen */
+@media screen{
+.homepage aside .uiBox span.new-category{position:relative;display:inline-block;margin-left:15px;font-size:10px;color:#fff;bottom:1px;line-height:26px;}
+.homepage aside .uiBox span.new-category:before{background-image:url(https://s0.shbdn.com/assets/images/homepage:beb2becad39a447f4fe46dbeeb34876a.png);background-position:-77px -37px;width:38px;height:14px;content:'';display:inline-block;vertical-align:middle;position:absolute;z-index:-1;top:7px;left:-10px;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage aside .uiBox span.new-category:before{background-image:url(https://s0.shbdn.com/assets/images/homepage_2x:d0569f45f32a774eacc720be5d60d95a.png);background-position:-30px -106px;-webkit-background-size:165.5px 171px;-moz-background-size:165.5px 171px;background-size:165.5px 171px;}
+}
+.homepage .uiBox nav>ul>li>a{line-height:28px;}
+.homepage .uiBox nav>ul>li:before{position:absolute;left:0;margin-top:3px;}
+.homepage .uiBox nav .services-categories{padding-top:9px;}
+.homepage .uiBox nav .special-categories,.homepage .uiBox nav .services-categories{border-bottom:1px solid #e6e6e6;padding-bottom:8px;padding-left:35px;}
+.homepage .uiBox nav .special-categories li.category-48:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-168px -552px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .special-categories li.category-48:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-168px -552px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .special-categories li.category-acil-acil:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-696px -24px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .special-categories li.category-acil-acil:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-696px -24px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .special-categories li.category-fiyati-dusen:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-552px -168px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .special-categories li.category-fiyati-dusen:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-552px -168px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .services-categories li.category-realestate-index:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-624px -96px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .services-categories li.category-realestate-index:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-624px -96px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .services-categories li.category-damage-inquiry:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-504px -216px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .services-categories li.category-damage-inquiry:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-504px -216px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .services-categories li.category-vehicle-insurance:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-360px -360px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .services-categories li.category-vehicle-insurance:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-360px -360px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .services-categories li.category-home-insurance:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-288px -432px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .services-categories li.category-home-insurance:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-288px -432px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .services-categories li.category-expertise:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-408px -312px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .services-categories li.category-expertise:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-408px -312px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .services-categories li.category-vehicle-price-evaluation:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-48px -672px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .services-categories li.category-vehicle-price-evaluation:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-48px -672px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu{margin:0;}
+.homepage .uiBox nav .categories-left-menu>li{padding:6px 0 0 35px;margin-top:7px;border-bottom:1px solid #e6e6e6;position:relative;}
+.homepage .uiBox nav .categories-left-menu>li:before{top:2px;}
+.homepage .uiBox nav .categories-left-menu>li span{color:#a1a1a1;font-size:10px;}
+.homepage .uiBox nav .categories-left-menu>li>a{font-weight:bold;line-height:20px;}
+.homepage .uiBox nav .categories-left-menu>li>a:before{top:-4px;}
+.homepage .uiBox nav .categories-left-menu>li>a+span{font-weight:bold;}
+.homepage .uiBox nav .categories-left-menu>li input[type="checkbox"]{display:none;}
+.homepage .uiBox nav .categories-left-menu>li ul{margin:8px 2px 13px 0;}
+.homepage .uiBox nav .categories-left-menu>li ul li{margin-bottom:5px;line-height:17px;}
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat{margin-bottom:14px;}
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat label{cursor:pointer;color:#039;padding-right:16px;line-height:15px;}
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat label:after{background-image:url(https://s0.shbdn.com/assets/images/homepage:beb2becad39a447f4fe46dbeeb34876a.png);background-position:-159px 0;width:12px;height:6px;content:'';display:inline-block;vertical-align:middle;-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-o-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg);position:relative;left:8px;bottom:1px;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat label:after{background-image:url(https://s0.shbdn.com/assets/images/homepage_2x:d0569f45f32a774eacc720be5d60d95a.png);background-position:-154px 0;-webkit-background-size:165.5px 171px;-moz-background-size:165.5px 171px;background-size:165.5px 171px;}
+}
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat label.close-categories:after{-webkit-transform:rotate(0deg);-moz-transform:rotate(0deg);-o-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg);}
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat label:hover{text-decoration:underline;}
+.homepage .uiBox nav .categories-left-menu>li ul li.hide-show-cat label:hover:after{opacity:1;-ms-filter:none;filter:none;}
+.homepage .uiBox nav .categories-left-menu>li.category-3518:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-600px -120px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-3518:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-600px -120px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-3517:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-96px -624px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-3517:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-96px -624px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-39:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:0 -720px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-39:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:0 -720px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-39>a{max-width:160px;display:inline-block;}
+.homepage .uiBox nav .categories-left-menu>li.category-39>a+span{display:block;margin-top:-15px;margin-left:130px;}
+.homepage .uiBox nav .categories-left-menu>li.category-7:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-720px 0;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-7:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-720px 0;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-7>a{max-width:95px;display:inline-block;}
+.homepage .uiBox nav .categories-left-menu>li.category-7>a+span{margin-left:-5px;}
+.homepage .uiBox nav .categories-left-menu>li.category-3520{border-bottom:0;}
+.homepage .uiBox nav .categories-left-menu>li.category-3520:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-480px -240px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-3520:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-480px -240px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-4595:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-264px -456px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-4595:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-264px -456px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-9:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-336px -384px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-9:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-336px -384px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-88854:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-120px -600px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-88854:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-120px -600px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-218822:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-240px -480px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-218822:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-240px -480px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li.category-218835:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);background-position:-24px -696px;width:24px;height:24px;content:'';display:inline-block;vertical-align:middle;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
+.homepage .uiBox nav .categories-left-menu>li.category-218835:before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);background-position:-24px -696px;-webkit-background-size:744px 744px;-moz-background-size:744px 744px;background-size:744px 744px;}
+}
+.homepage .uiBox nav .categories-left-menu>li .show-hide-input ~ ul .hide-category,.homepage .uiBox nav .categories-left-menu>li .show-hide-input ~ ul .hide-show-cat .close-categories{display:none;}
+.homepage .uiBox nav .categories-left-menu>li .show-hide-input:checked ~ ul .hide-category{display:block;}
+.homepage .uiBox nav .categories-left-menu>li .show-hide-input:checked ~ ul .hide-show-cat .close-categories{display:inline-block;}
+.homepage .uiBox nav .categories-left-menu>li .show-hide-input:checked ~ ul .hide-show-cat .open-categories{display:none;}
+}
+/*! CSS Used from: Embedded ; media=screen */
+@media screen{
+.homepage aside .uiBox span.new-category{color:rgb(236, 236, 236);}
+.homepage aside .uiBox span.new-category::before{background-image:url(https://s0.shbdn.com/assets/images/homepage:beb2becad39a447f4fe46dbeeb34876a.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage aside .uiBox span.new-category::before{background-image:url(https://s0.shbdn.com/assets/images/homepage_2x:d0569f45f32a774eacc720be5d60d95a.png);}
+}
+.homepage .uiBox nav .special-categories,.homepage .uiBox nav .services-categories{border-bottom-color:rgb(67, 67, 67);}
+.homepage .uiBox nav .special-categories li.category-48::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .special-categories li.category-48::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .special-categories li.category-acil-acil::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .special-categories li.category-acil-acil::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .special-categories li.category-fiyati-dusen::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .special-categories li.category-fiyati-dusen::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .services-categories li.category-realestate-index::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .services-categories li.category-realestate-index::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .services-categories li.category-damage-inquiry::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .services-categories li.category-damage-inquiry::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .services-categories li.category-vehicle-insurance::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .services-categories li.category-vehicle-insurance::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .services-categories li.category-home-insurance::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .services-categories li.category-home-insurance::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .services-categories li.category-expertise::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .services-categories li.category-expertise::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .services-categories li.category-vehicle-price-evaluation::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .services-categories li.category-vehicle-price-evaluation::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .categories-left-menu > li{border-bottom-color:rgb(67, 67, 67);}
+.homepage .uiBox nav .categories-left-menu > li span{color:rgb(177, 173, 164);}
+.homepage .uiBox nav .categories-left-menu > li ul li.hide-show-cat label{color:rgb(114, 174, 236);}
+.homepage .uiBox nav .categories-left-menu > li ul li.hide-show-cat label::after{background-image:url(https://s0.shbdn.com/assets/images/homepage:beb2becad39a447f4fe46dbeeb34876a.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .categories-left-menu > li ul li.hide-show-cat label::after{background-image:url(https://s0.shbdn.com/assets/images/homepage_2x:d0569f45f32a774eacc720be5d60d95a.png);}
+}
+.homepage .uiBox nav .categories-left-menu > li ul li.hide-show-cat label:hover{text-decoration-color:initial;}
+.homepage .uiBox nav .categories-left-menu > li.category-3518::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .categories-left-menu > li.category-3518::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .categories-left-menu > li.category-3517::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .categories-left-menu > li.category-3517::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .categories-left-menu > li.category-39::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .categories-left-menu > li.category-39::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .categories-left-menu > li.category-7::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .categories-left-menu > li.category-7::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .categories-left-menu > li.category-3520{border-bottom-color:initial;}
+.homepage .uiBox nav .categories-left-menu > li.category-3520::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .categories-left-menu > li.category-3520::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .categories-left-menu > li.category-4595::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .categories-left-menu > li.category-4595::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .categories-left-menu > li.category-9::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .categories-left-menu > li.category-9::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .categories-left-menu > li.category-88854::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .categories-left-menu > li.category-88854::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .categories-left-menu > li.category-218822::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .categories-left-menu > li.category-218822::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+.homepage .uiBox nav .categories-left-menu > li.category-218835::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons:79fc2582b8f8cffcc53eb720171c37f0.png);}
+@media not all, not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx){
+.homepage .uiBox nav .categories-left-menu > li.category-218835::before{background-image:url(https://s0.shbdn.com/assets/images/categoryIcons_2x:9d55d7167647a48054a3b33991ab9442.png);}
+}
+}
+/*! CSS Used fontfaces */
+@font-face{font-family:"LucidaGrande";src:url('https://s0.shbdn.com/assets/blob/LucidaGrande:00351442acc65cff9586baf06437dcd6.woff');}
+@font-face{font-family:"LucidaGrande";font-weight:bold;src:url('https://s0.shbdn.com/assets/blob/LucidaGrande-Bold:fb045a5535379e5c9818873ee5c7a9b0.woff');}
